@@ -15,3 +15,6 @@ This project demonstrates the use of matrix factorization techniques (PCA and SV
 
 ## Results
 The notebook contains pre-rendered visualizations showing the image reconstruction at $r=30, 50, 75$ and the cumulative variance plots for the PCA analysis.
+
+## Note
+Dataset used was HD Data.csv (private/institutional data); notebook contains saved outputs for reference.
